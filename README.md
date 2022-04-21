@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Jay Sanodiya</h1>
-<h3 align="center">A passionate Backend developer</h3>
+[![MasterHead](https://imgs.search.brave.com/oZjW8wbgQnJEzhSTuvYvlgoxrDR5UkUstp9wrUnuk2k/rs:fit:1200:626:1/g:ce/aHR0cHM6Ly9tZWRp/YS1mYXN0bHkuaGFj/a2VyZWFydGguY29t/L21lZGlhL2hhY2th/dGhvbi9zYXBpZW50/LWphdmEtZGV2ZWxv/cGVyLWhpcmluZy0y/MDE5L2ltYWdlcy8z/ZDZlNGVlNDllLWhh/Y2tlci5naWY.gif)](JaySanodiya)
+<h1 align="left">Hi 👋, I'm Jay Sanodiya</h1>
+<h3 align="left">A passionate Backend developer</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.sayyadimran.com/wp-content/uploads/2021/02/senior-front-end-developer-openings-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaysanodiya&label=Profile%20views&color=0e75b6&style=flat" alt="jaysanodiya" /> </p>
 
